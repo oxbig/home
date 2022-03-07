@@ -1,0 +1,39 @@
+.content {
+  /*background-color: pink;*/
+  height: 200px;
+  position: relative;
+}
+.nav{
+  position: absolute;
+  /*background-color: #fff;*/
+  width: 400px;
+  height: 100px;
+  display: flex;
+  font-size: 17px;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  top: 120px;
+  right:48px;
+}
+.nav_1{
+  display: none;
+  /*display: flex;*/
+  /*flex-direction: column;*/
+  /*line-height: 50px;*/
+  /*position: fixed;*/
+  /*bottom: 100px;*/
+  /*left: 76px;*/
+  /*z-index: 2;*/
+  /*width: 150px;*/
+  /*height: 200px;*/
+  /*background-color: greenyellow;*/
+}
+.backTop{
+  width: 60px;
+  height: 35px;
+  position: fixed;
+  top: 30px;
+  left: 50px;
+  z-index: 2;
+  /*background-color: #000;*/
+}

@@ -1,4 +1,4 @@
-# dia
+# home
 
 ## Project setup
 ```
